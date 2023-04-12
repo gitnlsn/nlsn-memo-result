@@ -3,7 +3,7 @@
   "description": "React useMemo implementation that prevents update propagation if return value is equal",
   "author": "nelson kenzo tamashiro <nelsonkenzotamashiro@gmail.com>",
   "version": "0.0.0-development",
-  "main": "index.js",
+  "main": "dist/index.js",
   "license": "MIT",
   "repository": {
     "type": "git",
