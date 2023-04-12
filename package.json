@@ -1,0 +1,50 @@
+{
+  "name": "nlsn-memo-result",
+  "description": "React useMemo implementation that prevents update propagation if return value is equal",
+  "author": "nelson kenzo tamashiro <nelsonkenzotamashiro@gmail.com>",
+  "version": "0.0.0-development",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gitnlsn/nlsn-memo-result"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "useMemo",
+    "update propagation",
+    "same result"
+  ],
+  "release": {
+    "branches": [
+      "master"
+    ]
+  },
+  "files": [
+    "./dist/**",
+    "./readme.md",
+    "./LICENSE",
+    "./package.json"
+  ],
+  "devDependencies": {
+    "@testing-library/react-hooks": "^8.0.1",
+    "@types/jest": "^29.5.0",
+    "@types/lodash": "^4.14.192",
+    "@types/react": "17.0.44",
+    "jest": "^29.5.0",
+    "jest-environment-jsdom": "^29.5.0",
+    "react": "17.0.2",
+    "react-dom": "^17.0.2",
+    "ts-jest": "^29.1.0",
+    "typescript": "^5.0.3"
+  },
+  "peerDependencies": {
+    "@types/react": "^16.9.0 || ^17.0.0",
+    "react": "^16.9.0 || ^17.0.0",
+    "react-dom": "^16.9.0 || ^17.0.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

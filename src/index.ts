@@ -1,0 +1,1 @@
+export { useMemoResult } from "./useMemoResult"
