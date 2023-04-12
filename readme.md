@@ -1,5 +1,6 @@
 [![Build](https://github.com/gitnlsn/nlsn-memo-result/actions/workflows/build.yml/badge.svg)](https://github.com/gitnlsn/nlsn-memo-result/actions/workflows/build.yml)
 [![Tests](https://github.com/gitnlsn/nlsn-memo-result/actions/workflows/tests.yml/badge.svg)](https://github.com/gitnlsn/nlsn-memo-result/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/gitnlsn/nlsn-memo-result/branch/master/graph/badge.svg?token=mijoAGaDk9)](https://codecov.io/gh/gitnlsn/nlsn-memo-result)
 [![npm version](https://badge.fury.io/js/nlsn-memo-result.svg)](https://badge.fury.io/js/nlsn-memo-result)
 
 # Description
