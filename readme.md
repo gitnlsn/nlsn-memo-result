@@ -1,3 +1,7 @@
+[![Build](https://github.com/gitnlsn/nlsn-memo-result/actions/workflows/build.yml/badge.svg)](https://github.com/gitnlsn/nlsn-memo-result/actions/workflows/build.yml)
+[![Tests](https://github.com/gitnlsn/nlsn-memo-result/actions/workflows/tests.yml/badge.svg)](https://github.com/gitnlsn/nlsn-memo-result/actions/workflows/tests.yml)
+[![npm version](https://badge.fury.io/js/nlsn-memo-result.svg)](https://badge.fury.io/js/nlsn-memo-result)
+
 # Description
 
 React hook `useMemo` will propagate update event if the return value changes, even by refenrece. In some cases, this update event triggers UI events and is undesired.
